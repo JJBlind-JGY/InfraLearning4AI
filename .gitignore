@@ -1,5 +1,9 @@
 .idea/
 *.iml
+# 忽略所有__pycache__目录
+__pycache__/
+# 忽略所有.pyc编译文件
+*.pyc
 
 build/
 out/
@@ -7,6 +11,7 @@ out/
 oh_modules/
 node_modules/
 
+logs/
 *.log
 
 .DS_Store
