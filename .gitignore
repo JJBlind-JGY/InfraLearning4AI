@@ -18,3 +18,7 @@ logs/
 Thumbs.db
 
 *.csv
+results/
+*.exe
+*.exp
+*.lib
